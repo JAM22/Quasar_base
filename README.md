@@ -1,6 +1,6 @@
 # Quasar App (quasar_front)
 
-H&L App
+Quasar App
 
 ## Install the dependencies
 ```bash
